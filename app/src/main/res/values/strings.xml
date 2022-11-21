@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Rocky</string>
+    <string name="bienvenido_a_rocky">Bienvenido a Rocky</string>
+    <string name="siguiente">Siguiente</string>
+    <string name="todo">TODO</string>
+    <string name="textview1">TextView</string>
+    <string name="MenuRoky">Rocky</string>
+    <string name="Marco">TODO</string>
+    <string name="Asesoria">TODO</string>
+    <string name="asesoriat">Asesoria</string>
+    <string name="tu_mascota">TODO</string>
+    <string name="Veterinario">TODO</string>
+    <string name="veterinariot">Veterinario</string>
+    <string name="AYUDA">TODO</string>
+    <string name="Asistencia">TODO</string>
+    <string name="asistenciat">Asistencia</string>
+    <string name="Ayudat">Ayuda a una mascota</string>
+    <string name="tumascotat">Tu mascota</string>
+    <string name="tu_mascotat">Tu mascota</string>
+    <string name="Asistencia1">TODO</string>
+    <string name="primeros_pasos">Primeros pasos</string>
+    <string name="Imagen1_lista">TODO</string>
+
+</resources>
