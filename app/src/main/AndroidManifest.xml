@@ -13,14 +13,49 @@
         android:theme="@style/Theme.Rocky"
         tools:targetApi="31">
         <activity
-            android:name=".AsesoriaPrimerosP"
+            android:name=".Ayudasmascota.AyudaMrescate"
             android:exported="false">
             <meta-data
                 android:name="android.app.lib_name"
                 android:value="" />
         </activity>
         <activity
-            android:name=".Asesoria"
+            android:name=".Ayudasmascota.AyudaMveterinario"
+            android:exported="false">
+            <meta-data
+                android:name="android.app.lib_name"
+                android:value="" />
+        </activity>
+        <activity
+            android:name=".Ayudasmascota.AyudaMascota"
+            android:exported="false">
+            <meta-data
+                android:name="android.app.lib_name"
+                android:value="" />
+        </activity>
+        <activity
+            android:name=".Asesoria.AsesoriaHigiene"
+            android:exported="false">
+            <meta-data
+                android:name="android.app.lib_name"
+                android:value="" />
+        </activity>
+        <activity
+            android:name=".Asesoria.AsesoriaHabilidades"
+            android:exported="false">
+            <meta-data
+                android:name="android.app.lib_name"
+                android:value="" />
+        </activity>
+        <activity
+            android:name=".Asesoria.AsesoriaPrimerosP"
+            android:exported="false">
+            <meta-data
+                android:name="android.app.lib_name"
+                android:value="" />
+        </activity>
+        <activity
+            android:name=".Asesoria.Asesoria"
             android:exported="false">
             <meta-data
                 android:name="android.app.lib_name"
@@ -34,7 +69,7 @@
                 android:value="" />
         </activity>
         <activity
-            android:name=".Veterinario"
+            android:name=".veterinario.Veterinario"
             android:exported="false">
             <meta-data
                 android:name="android.app.lib_name"

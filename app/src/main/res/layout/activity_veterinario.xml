@@ -6,7 +6,7 @@
     android:layout_height="match_parent"
     android:background="@color/red_P"
     android:orientation="vertical"
-    tools:context=".Veterinario">
+    tools:context=".veterinario.Veterinario">
 
     <androidx.recyclerview.widget.RecyclerView
         android:layout_width="match_parent"
