@@ -1,12 +1,11 @@
-package com.example.rocky.Ayudasmascota
+package com.example.rocky
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
-import com.example.rocky.R
 
-class AyudaMrescate : AppCompatActivity() {
+class RecAyudaMascotas : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
-        setContentView(R.layout.activity_ayuda_mrescate)
+        setContentView(R.layout.activity_rec_ayuda_mascotas)
     }
 }
