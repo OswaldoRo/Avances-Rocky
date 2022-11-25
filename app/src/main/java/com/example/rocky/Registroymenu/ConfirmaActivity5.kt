@@ -4,18 +4,20 @@ import android.content.Intent
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
 import android.widget.Button
-import android.widget.TextView
 
-class MainActivity : AppCompatActivity() {
+class confirmaActivity5 : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
-        setContentView(R.layout.activity_main)
+        setContentView(R.layout.activity_confirma5)
 
-        val btn1: Button = findViewById(R.id.Boton_inicio)
-        btn1.setOnClickListener {
+        val btn: Button = findViewById(R.id.btn_okOlv)
+        btn.setOnClickListener {
 
-            val intent: Intent = Intent(this,Menu::class.java )
+            val intent = Intent(this, LoginActivity2::class.java)
             startActivity(intent)
+
         }
+
+
     }
 }
