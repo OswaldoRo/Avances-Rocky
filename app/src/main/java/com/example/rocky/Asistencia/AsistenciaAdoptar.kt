@@ -4,9 +4,9 @@ import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
 import com.example.rocky.R
 
-class Asistenciaadoptar : AppCompatActivity() {
+class AsistenciaAdoptar : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
-        setContentView(R.layout.activity_ayuda_mrescate)
+        setContentView(R.layout.activity_ayuda_macota)
     }
 }

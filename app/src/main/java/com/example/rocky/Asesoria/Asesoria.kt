@@ -19,26 +19,32 @@ class Asesoria : AppCompatActivity() {
             val intent: Intent = Intent(this, Menu::class.java)
             startActivity(intent)
 
-        val btnAse: ImageButton = findViewById(imageButton7)
-        btnAse.setOnClickListener {
+        }
 
-            val intent: Intent = Intent(this, AsesoriaPrimerosP::class.java)
-            startActivity(intent)
 
-                val btnAse: ImageButton = findViewById(botonsan)
-                btnAse.setOnClickListener {
+        val btnAse1: ImageButton = findViewById(imageButton7)
+        btnAse1.setOnClickListener {
 
-                   val intent: Intent = Intent(this, AsesoriaHabilidades::class.java)
-                    startActivity(intent)
+            val intent1: Intent = Intent(this, AsesoriaPrimerosP::class.java)
+            startActivity(intent1)
 
-                    val btnAse: ImageButton = findViewById(imageButton8)
-                    btnAse.setOnClickListener {
 
-                    val intent: Intent = Intent(this, AsesoriaHigiene::class.java)
-                    startActivity(intent)
-                 }
+        }
+
+                val btnAse2: ImageButton = findViewById(botonsan)
+                btnAse2.setOnClickListener {
+
+                   val intent3: Intent = Intent(this, AsesoriaHabilidades::class.java)
+                    startActivity(intent3)
+
                 }
+
+                    val btnAse4: ImageButton = findViewById(imageButton8)
+                    btnAse4.setOnClickListener {
+
+                    val intent4: Intent = Intent(this, AsesoriaHigiene::class.java)
+                    startActivity(intent4)
+
               }
            }
          }
-       }

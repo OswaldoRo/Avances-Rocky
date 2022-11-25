@@ -7,6 +7,6 @@ import com.example.rocky.R
 class AsistenciaDejar : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
-        setContentView(R.layout.activity_ayuda_mveterinario)
+        setContentView(R.layout.activity_ayuda_mascotas)
     }
 }
