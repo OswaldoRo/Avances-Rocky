@@ -25,7 +25,7 @@ class AyudaMascotasProvider {
                 "Centro cab",
                 "Centro de adopcion Bogota D.c",
                 "calle ladkaldfakf adsfkjaf",
-                "htppdaflkakkafklakfa",
+                "https://cambiaundestino.org/wp-content/uploads/2016/09/que-hacemos_m.jpg",
 
                 ),
 
@@ -33,29 +33,29 @@ class AyudaMascotasProvider {
                 "Fundacion huellitas",
                 "Centro de adopcion Bogota D.c",
                 "calle ladkaldfakf adsfkjaf",
-                "htppdaflkakkafklakfa",
+                "https://pbs.twimg.com/media/FPoXCSiXsAg9N9x.jpg",
 
                 ),
 
             ClaseAyudaMascotas(
-                "Manchas",
+                "Amores de garra",
                 "Centro de adopcion Bogota D.c",
                 "calle ladkaldfakf adsfkjaf",
-                "htppdaflkakkafklakfa",
+                "https://pbs.twimg.com/profile_images/1095097197748580352/owAGm8a2_400x400.jpg",
 
                 ),
             ClaseAyudaMascotas(
-                "Paticas",
+                "",
                 "Centro de adopcion Bogota D.c",
                 "calle ladkaldfakf adsfkjaf",
-                "htppdaflkakkafklakfa",
+                "https://pbs.twimg.com/profile_images/378800000488107612/2bb3e82b18c8f3dcc1f7372656e99548_400x400.jpeg",
             ),
 
             ClaseAyudaMascotas(
                 "Paticas",
                 "Centro de adopcion Bogota D.c",
                 "calle ladkaldfakf adsfkjaf",
-                "htppdaflkakkafklakfa",
+                "https://pbs.twimg.com/profile_images/1015679327827095553/9i-Ox3GK_400x400.jpg",
             )
 
         )

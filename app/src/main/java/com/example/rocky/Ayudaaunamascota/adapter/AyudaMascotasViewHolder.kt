@@ -20,6 +20,7 @@ class AyudaMascotasViewHolder (view:View):ViewHolder(view){
         Nombreayuda.text = claseAyudaMascotasModel.nombreayuda
         Descripcion.text = claseAyudaMascotasModel.descripcion
         Direccion.text = claseAyudaMascotasModel.direccion
+        Glide.with(photo.context).load(claseAyudaMascotasModel.photo).into(photo)
 
     }
 
